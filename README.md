@@ -8,6 +8,3 @@
 - HTML
 - CSS
 - JavaScript
-
-## Live Demo
-(link after GitHub Pages)
